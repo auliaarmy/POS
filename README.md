@@ -1,0 +1,2 @@
+# POS
+tugas magang kelompok
